@@ -1,0 +1,8 @@
+{
+    "rules": {
+        "no-var": "error",
+        "no-new-object": "error",
+        "no-array-constructor": "error",
+        "object-shorthand": "error"
+    }
+}
